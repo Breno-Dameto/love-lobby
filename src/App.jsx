@@ -106,7 +106,7 @@ const datesCollection = collection(db, "date");
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src="images/1.jpeg"
+            src="https://breno-dameto.github.io/love-lobby/1.jpeg"
             alt="Slide 1"
             style={{ objectFit: 'contain', height: '400px', width: '110%' }} // Aumenta a largura para 110%
           />
@@ -115,7 +115,7 @@ const datesCollection = collection(db, "date");
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src="images/2.jpeg"
+            src="https://breno-dameto.github.io/love-lobby/2.jpeg"
             alt="Slide 2"
             style={{ objectFit: 'contain', height: '400px', width: '400px' }} // Aumenta a largura para 110%
           />
@@ -124,7 +124,7 @@ const datesCollection = collection(db, "date");
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src="images/3.jpeg"
+            src="https://breno-dameto.github.io/love-lobby/3.jpeg"
             alt="Slide 3"
             style={{ objectFit: 'contain', height: '400px', width: '110%' }} // Aumenta a largura para 110%
           />
